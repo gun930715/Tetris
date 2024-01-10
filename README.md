@@ -28,3 +28,6 @@
 
 * **Tetris**  
 連接其他moudle
+
+* **btn_control**
+控制移動輸入
