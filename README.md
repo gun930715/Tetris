@@ -30,7 +30,7 @@
 連接其他moudle
 * **btn_control**  
 控制移動或旋轉輸入
-* **btn_control_check**  
+* **block_control_check**  
 檢測移動或旋轉是否可執行
 * **block_type_control**  
 控制方塊顏色和樣式
@@ -38,3 +38,7 @@
 輸入方塊位置和樣式並計算在8*8陣列中的位置，輸出陣列
 * **display_map**  
 將8*8陣列顯示在LED陣列
+* **block_control**  
+控制方塊在map中x和y座標
+* **map_control**  
+計算並輸出map
