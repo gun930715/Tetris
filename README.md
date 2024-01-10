@@ -1,7 +1,7 @@
 # Tetris
 
 ## input
-* move_left  
+* __move_left__  
 往左移動  
 __move_right__  
 往右移動  
