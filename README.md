@@ -3,6 +3,7 @@
 ## input
 
 move_left
+\n
 往左移動
 move_right
 往右移動
