@@ -1,10 +1,9 @@
 # Tetris
 
 ## input
-
-*move_left*  
+__move_left__  
 往左移動  
-move_right  
+__move_right__  
 往右移動  
 move_down  
 往下移動  
