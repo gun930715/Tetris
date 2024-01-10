@@ -11,8 +11,6 @@
 	LED_Blue,
 	LED_en,
 	LED_COM,
-	seg,
-	seg_COM
 );
 //----------------------------------
 		input clk;
@@ -330,17 +328,6 @@
 		
 		assign LED_en = 1'b1;	
 		
-//----------------------------------
-		
-		
-		score_control
-		score_control_(
-			.clk(clk),
-			.reset(reset),
-			.score_plus(score_plus),
-			.seg(seg),
-			.seg_COM(seg_COM)
-		);
 		
 		
 	
