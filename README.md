@@ -2,8 +2,7 @@
 
 ## input
 
-move_left
-\n
+move_left  
 往左移動
 move_right
 往右移動
